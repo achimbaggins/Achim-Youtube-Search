@@ -3,7 +3,10 @@ simple NPM to search youtube video,  tested in React and Vue
 
 <dl>
   <dt>How to install</dt>
-  <dd>npm install --save achim-youtube-search</dd>
+  ```
+  npm install --save achim-youtube-search
+
+  ```
   <dd> </dd>
 </dl>
 
