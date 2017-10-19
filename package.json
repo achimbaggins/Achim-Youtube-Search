@@ -1,0 +1,29 @@
+{
+  "name": "achim-youtube-search",
+  "version": "0.1.0",
+  "description": "Fetch 5 Youtube videos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/achimbaggins/Achim-Youtube-Search.git"
+  },
+  "keywords": [
+    "youtube",
+    "api",
+    "youtube",
+    "search",
+    "achim"
+  ],
+  "author": "achim baggins <achim_baggins@yahoo.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/achimbaggins/Achim-Youtube-Search/issues"
+  },
+  "homepage": "https://github.com/achimbaggins/Achim-Youtube-Search#readme",
+  "dependencies": {
+    "axios": "^0.16.2"
+  }
+}
